@@ -1,0 +1,212 @@
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+C:\Users\ptranter\Documents\c#\Projects\@Forms\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+H:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+H:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+H:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+H:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+H:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+H:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+H:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+H:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+\\EG-CM129-VMSRV\Lecture_Folder\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+L:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+L:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+L:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+L:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+L:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+L:\EL2007\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+L:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+L:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+L:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+L:\EL2007\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\ROBOT CODE\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT PROGRAM MAYBE BROKEN 14012019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE FIXED 15-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Programming\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\ROBOT CODE COMPLETE 16-01-2019\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+\\DEV-HA\Redirected_Folders\PFairclough1\Documents\EL2007 Assignment 1\ROBOT CODE FINAL\POTENTIALLY COMPLETE ROBOT CODE 16-01-2019\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+G:\EL2007 Search and Rescue Assignment\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\VisionEL2007.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Video.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Imaging.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\bin\Debug\AForge.Math.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\Vision.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2007 - Robotic Systems\Assignment\Hand-In\Code\VisionEL2007\VisionEL2007\obj\x86\Debug\VisionEL2007.pdb
